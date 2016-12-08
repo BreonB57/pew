@@ -1,6 +1,6 @@
 {
   "settings": {
-    "name": "NewSite-12-08_1828",
+    "name": "Pavins epic website",
     "currentPage": "index.html",
     "theme": {
       "name": "default",
@@ -10,7 +10,11 @@
     "versionFirst": "3.9.2",
     "uniqCompNum": 5,
     "versionPublish": "3.9.2",
-    "publishType": "github"
+    "publishType": "github",
+    "favicon": "@PROJECT_PATH@/assets/images/photo-128x128-43.jpg",
+    "noImageResize": "",
+    "google-analytics": "",
+    "cookiesAlert": ""
   },
   "pages": {
     "index.html": {
